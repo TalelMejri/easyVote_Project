@@ -1,0 +1,2394 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.7)  20 OCT 2026 18:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./EasyVote_Rapport_Final.tex
+(EasyVote_Rapport_Final.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-09-09>
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2025/01/22 v1.4n Standard LaTeX document class
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count276
+\c@chapter=\count277
+\c@section=\count278
+\c@subsection=\count279
+\c@subsubsection=\count280
+\c@paragraph=\count281
+\c@subparagraph=\count282
+\c@figure=\count283
+\c@table=\count284
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen150
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2025/07/18 v2.1d Standard LaTeX package
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\lmodern.sty
+Package: lmodern 2015/05/01 v1.6.1 Latin Modern Fonts
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/lmr/m/n on input line 22.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/lmm/m/it on input line 23.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/lmsy/m/n on input line 24.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 25.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 26.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/lmm/b/it on input line 27.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/lmsy/b/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/lmex/m/n on input line 29.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 31.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
+(Font)                  OT1/cmss/m/n --> OT1/lmss/m/n on input line 32.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/lmr/m/it on input line 33.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/lmr/bx/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
+(Font)                  OT1/cmss/bx/n --> OT1/lmss/bx/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/lmr/bx/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
+(Font)                  OT1/cmtt/m/n --> OT1/lmtt/m/n on input line 38.
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2026/09/09 v26.12 The multilingual framework for LuaLaTeX, pdfLa
+TeX and XeLaTeX
+\babel@savecnt=\count285
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding OT1) on input li
+ne 2095.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding OT1) on input li
+ne 2097.
+LaTeX Encoding Info:    Redeclaring text command \ij (encoding T1) on input lin
+e 2099.
+LaTeX Encoding Info:    Redeclaring text command \IJ (encoding T1) on input lin
+e 2100.
+LaTeX Encoding Info:    Ignoring declaration for text command \ij (encoding ?) 
+on input line 2101.
+LaTeX Encoding Info:    Ignoring declaration for text command \IJ (encoding ?) 
+on input line 2103.
+LaTeX Encoding Info:    Ignoring declaration for text command \SS (encoding ?) 
+on input line 2128.
+\U@D=\dimen151
+\l@unhyphenated=\language79
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count286
+Package babel Info: Configuration files are deprecated, as
+(babel)             they can break document portability.
+(babel)             Reported on input line 4331.
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/babel/locale/fr\babel
+-french.tex)
+Package babel Info: Importing font and identification data for 'french'
+(babel)             from babel-fr.ini. Reported on input line 4459.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french.l
+df
+Language: french 2026-06-06 v4.1a French support from the babel system
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/babel-french\french3.
+ldf
+Language: french 2026-06-06 v3.7f French support from the babel system
+\FB@stdchar=\count287
+Package babel Info: Making : an active character on input line 266.
+Package babel Info: Making ; an active character on input line 267.
+Package babel Info: Making ! an active character on input line 268.
+Package babel Info: Making ? an active character on input line 269.
+\FBguill@level=\count288
+\FBold@everypar=\toks19
+\FB@Mht=\dimen152
+\mc@charclass=\count289
+\mc@charfam=\count290
+\mc@charslot=\count291
+\std@mcc=\count292
+\dec@mcc=\count293
+\listindentFB=\dimen153
+\descindentFB=\dimen154
+\labelwidthFB=\dimen155
+\labelfullwidthFB=\dimen156
+\FB@pardim=\dimen157
+\parindentFFN=\dimen158
+\FBfnindent=\dimen159
+)))
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/carlisle\scalefnt.sty)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2026/03/07 v6.0 Page Geometry
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2026-05-17 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+))
+\Gm@cnth=\count294
+\Gm@cntv=\count295
+\c@Gm@tempcnt=\count296
+\Gm@bindingoffset=\dimen160
+\Gm@wd@mp=\dimen161
+\Gm@odd@mp=\dimen162
+\Gm@even@mp=\dimen163
+\Gm@layoutwidth=\dimen164
+\Gm@layoutheight=\dimen165
+\Gm@layouthoffset=\dimen166
+\Gm@layoutvoffset=\dimen167
+\Gm@dimlist=\toks21
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2026-05-17 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2026-05-17 v1.4h Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2025/09/29 v1.2d Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen168
+\Gin@req@width=\dimen169
+) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/graphics\mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2026/02/24 v2.7b Tabular extension package (FMi)
+\col@sep=\dimen170
+\ar@mcellbox=\box53
+\extrarowheight=\dimen171
+\NC@list=\toks22
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box54
+)
+new hooks used!!
+\minrowclearance=\skip53
+\rownum=\count297
+) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen172
+\lightrulewidth=\dimen173
+\cmidrulewidth=\dimen174
+\belowrulesep=\dimen175
+\belowbottomsep=\dimen176
+\aboverulesep=\dimen177
+\abovetopsep=\dimen178
+\cmidrulesep=\dimen179
+\cmidrulekern=\dimen180
+\defaultaddspace=\dimen181
+\@cmidla=\count298
+\@cmidlb=\count299
+\@aboverulesep=\dimen182
+\@belowrulesep=\dimen183
+\@thisruleclass=\count300
+\@lastruleclass=\count301
+\@thisrulewidth=\dimen184
+) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/tools\longtable.sty
+Package: longtable 2026-01-28 v4.27 Multi-page Table package (DPC)
+\LTleft=\skip54
+\LTright=\skip55
+\LTpre=\skip56
+\LTpost=\skip57
+\LTchunksize=\count302
+\LTcapwidth=\dimen185
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@gbox=\box59
+\LT@cols=\count303
+\LT@rows=\count304
+\c@LT@tables=\count305
+\c@LT@chunks=\count306
+\LT@p@ftn=\toks23
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/tools\tabularx.sty
+Package: tabularx 2023/12/11 v2.12a `tabularx' package (DPC)
+\TX@col@width=\dimen186
+\TX@old@table=\dimen187
+\TX@old@col=\dimen188
+\TX@target=\dimen189
+\TX@delta=\dimen190
+\TX@cols=\count307
+\TX@ftn=\toks24
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.sty
+Package: enumitem 2025/02/06 v3.11 Customized lists
+\labelindent=\skip58
+\enit@outerparindent=\dimen191
+\enit@toks=\toks25
+\enit@inbox=\box60
+\enit@count@id=\count308
+\enitdp@description=\count309
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip59
+\f@nch@offset@elh=\skip60
+\f@nch@offset@erh=\skip61
+\f@nch@offset@olh=\skip62
+\f@nch@offset@orh=\skip63
+\f@nch@offset@elf=\skip64
+\f@nch@offset@erf=\skip65
+\f@nch@offset@olf=\skip66
+\f@nch@offset@orf=\skip67
+\f@nch@height=\skip68
+\f@nch@footalignment=\skip69
+\f@nch@widthL=\skip70
+\f@nch@widthC=\skip71
+\f@nch@widthR=\skip72
+\@temptokenb=\toks26
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count310
+\lst@gtempboxa=\box61
+\lst@token=\toks27
+\lst@length=\count311
+\lst@currlwidth=\dimen192
+\lst@column=\count312
+\lst@pos=\count313
+\lst@lostspace=\dimen193
+\lst@width=\dimen194
+\lst@newlines=\count314
+\lst@lineno=\count315
+\lst@maxwidth=\dimen195
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count316
+\lst@skipnumbers=\count317
+\lst@framebox=\box62
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count318
+\float@exts=\toks28
+\float@box=\box63
+\@float@everytoks=\toks29
+\@floatcapt=\box64
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2026/05/19 v2.18d AMS math features
+\@mathmargin=\skip73
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2024/11/17 v2.01 AMS text
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks30
+\ex@=\dimen196
+))
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen197
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2022/04/08 v2.04 operator names
+)
+\inf@bad=\count319
+LaTeX Info: Redefining \frac on input line 233.
+\uproot@=\count320
+\leftroot@=\count321
+LaTeX Info: Redefining \overline on input line 398.
+LaTeX Info: Redefining \colon on input line 409.
+\classnum@=\count322
+\DOTSCASE@=\count323
+LaTeX Info: Redefining \ldots on input line 495.
+LaTeX Info: Redefining \dots on input line 498.
+LaTeX Info: Redefining \cdots on input line 619.
+\Mathstrutbox@=\box65
+\strutbox@=\box66
+LaTeX Info: Redefining \big on input line 721.
+LaTeX Info: Redefining \Big on input line 722.
+LaTeX Info: Redefining \bigg on input line 723.
+LaTeX Info: Redefining \Bigg on input line 724.
+\big@size=\dimen198
+LaTeX Font Info:    Redeclaring font encoding OML on input line 742.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 743.
+\macc@depth=\count324
+LaTeX Info: Redefining \bmod on input line 904.
+LaTeX Info: Redefining \pmod on input line 909.
+LaTeX Info: Redefining \smash on input line 939.
+LaTeX Info: Redefining \relbar on input line 969.
+LaTeX Info: Redefining \Relbar on input line 970.
+\c@MaxMatrixCols=\count325
+\dotsspace@=\muskip17
+\c@parentequation=\count326
+\dspbrk@lvl=\count327
+\tag@help=\toks31
+\row@=\count328
+\column@=\count329
+\maxfields@=\count330
+\andhelp@=\toks32
+\eqnshift@=\dimen199
+\alignsep@=\dimen256
+\tagshift@=\dimen257
+\tagwidth@=\dimen258
+\totwidth@=\dimen259
+\lineht@=\dimen260
+\@envbody=\toks33
+\multlinegap=\skip74
+\multlinetaggap=\skip75
+\mathdisplay@stack=\toks34
+LaTeX Info: Redefining \[ on input line 2965.
+LaTeX Info: Redefining \] on input line 2966.
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.st
+y
+Package: hyperref 2026-06-17 v7.01r Hypertext links for LaTeX
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2026-01-29 v2.58 Cross-referencing by name of section
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count331
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2025/10/02 v2.5m e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count332
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.s
+ty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen261
+\Hy@linkcounter=\count333
+\Hy@pagecounter=\count334
+ (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2026-06-17 v7.01r Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count335
+ (C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2026-06-17 v7.01r Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4199.
+Package hyperref Info: Link nesting OFF on input line 4204.
+Package hyperref Info: Hyper index ON on input line 4207.
+Package hyperref Info: Plain pages OFF on input line 4214.
+Package hyperref Info: Backreferencing OFF on input line 4219.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4466.
+\c@Hy@tempcnt=\count336
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip18
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4805.
+\XeTeXLinkMargin=\dimen262
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count337
+\Field@Width=\dimen263
+\Fld@charsize=\dimen264
+Package hyperref Info: Hyper figures OFF on input line 6091.
+Package hyperref Info: Link nesting OFF on input line 6096.
+Package hyperref Info: Hyper index ON on input line 6099.
+Package hyperref Info: backreferencing OFF on input line 6106.
+Package hyperref Info: Link coloring OFF on input line 6111.
+Package hyperref Info: Link coloring with OCG OFF on input line 6116.
+Package hyperref Info: PDF/A mode OFF on input line 6121.
+\Hy@abspage=\count338
+\c@Item=\count339
+\c@Hfootnote=\count340
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-06-17 v7.01r Hyperref driver for pdfTeX
+\Fld@listcount=\count341
+\c@bookmark@seq@number=\count342
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+84.
+)
+\Hy@SectionHShift=\skip76
+)
+Package french3.ldf Info: Setting StandardItemizeEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 74.
+Package french3.ldf Info: Setting StandardEnumerateEnv=true for
+(french3.ldf)             compatibility with enumitem package,
+(french3.ldf)             reported on input line 74.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 74
+.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
+File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\l3backend-pdft
+ex.def
+File: l3backend-pdftex.def 2026-09-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count343
+) (EasyVote_Rapport_Final.aux
+Package babel Info: 'french' activates 'french' shorthands.
+(babel)             Reported on input line 11.
+)
+\openout1 = `EasyVote_Rapport_Final.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 74.
+LaTeX Font Info:    ... okay on input line 74.
+LaTeX Info: Redefining \degres on input line 74.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=15.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count344
+\scratchdimen=\dimen265
+\scratchbox=\box67
+\nofMPsegments=\count345
+\nofMParguments=\count346
+\everyMPshowfont=\toks35
+\MPscratchCnt=\count347
+\MPscratchDim=\dimen266
+\MPnumerator=\count348
+\makeMPintoPDFobject=\count349
+\everyMPtoPDFconversion=\toks36
+)
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+\c@lstlisting=\count350
+Package hyperref Info: Link coloring OFF on input line 74.
+ (EasyVote_Rapport_Final.out) (EasyVote_Rapport_Final.out)
+\@outlinefile=\write3
+\openout3 = `EasyVote_Rapport_Final.out'.
+
+Package babel Info: Main language set to 'french'.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 8
+3.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
+File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 8
+3.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
+File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 
+83.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
+File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 
+83.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
+File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+)
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <12> on input line 83.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 83.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 83.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 83.
+
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 83.
+
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/talel/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/tale
+l/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}]
+LaTeX Font Info:    Trying to load font information for TS1+lmr on input line 1
+52.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\ts1lmr.fd
+File: ts1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [1
+
+{C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ts1.enc}]
+(EasyVote_Rapport_Final.toc [2
+
+
+]
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 5
+9.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
+File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
+) [3])
+\tf@toc=\write4
+\openout4 = `EasyVote_Rapport_Final.toc'.
+
+
+[4] (EasyVote_Rapport_Final.lot [5
+
+
+{C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathsy.enc}
+])
+\tf@lot=\write5
+\openout5 = `EasyVote_Rapport_Final.lot'.
+
+ [6] (EasyVote_Rapport_Final.lof
+Overfull \hbox (1.3808pt too wide) in paragraph at lines 16--16
+ [][] [][]\T1/lmr/m/n/12 jwt.io --- ac-cess to-ken dé-codé : al-go-rithme HS512
+, rôle AD-MIN, \T1/lmtt/m/n/12 iat \T1/lmr/m/n/12 = 1792444682 
+ []
+
+)
+\tf@lof=\write6
+\openout6 = `EasyVote_Rapport_Final.lof'.
+
+ [7
+
+]
+Underfull \hbox (badness 2409) in paragraph at lines 177--177
+[]|\T1/lmr/m/n/12 UT, IT, ST,
+ []
+
+[8
+
+
+]
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.209 \chapter
+              {Choix et PrÃ©sentation du Projet}\label{ch:projet} [1
+
+
+]
+Chapitre 1.
+[2
+
+]
+Overfull \hbox (1.29387pt too wide) in paragraph at lines 229--230
+[]\T1/lmr/m/n/12 des \T1/lmr/bx/n/12 exi-gences non fonc-tion-nelles \T1/lmr/m/
+n/12 me-su-rables (temps de ré-ponse, sé-cu-rité JWT, contrôle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]|\T1/lmr/m/n/10.95 Étudiants
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]|\T1/lmr/m/n/10.95 Candidats
+ []
+
+
+Underfull \hbox (badness 4608) in paragraph at lines 246--246
+[]|\T1/lmr/m/n/10.95 Acteurs de cam-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 246--246
+[]|\T1/lmr/m/n/10.95 Administrateur
+ []
+
+[3]
+Chapitre 2.
+[4
+
+]
+<images/jira-backlog.png, id=572, 1154.51324pt x 522.15076pt>
+File: images/jira-backlog.png Graphic file (type png)
+<use images/jira-backlog.png>
+Package pdftex.def Info: images/jira-backlog.png  used on input line 276.
+(pdftex.def)             Requested size: 483.69687pt x 218.76004pt.
+<images/jira-tableau.png, id=574, 1154.51324pt x 521.5485pt>
+File: images/jira-tableau.png Graphic file (type png)
+<use images/jira-tableau.png>
+Package pdftex.def Info: images/jira-tableau.png  used on input line 282.
+(pdftex.def)             Requested size: 483.69687pt x 218.5077pt.
+ [5 <./images/jira-backlog.png> <./images/jira-tableau.png>] [6]
+Chapitre 3.
+[7
+
+]
+Overfull \hbox (14.61574pt too wide) in paragraph at lines 344--345
+[]\T1/lmr/m/n/12 Créer, mo-di-fier, sup-pri-mer des élec-tions et gé-rer leur c
+ycle de vie (\T1/lmtt/m/n/12 DRAFT $\OMS/lmsy/m/n/12 !$ \T1/lmtt/m/n/12 CAMPAIG
+N_ACTIVE
+ []
+
+
+Overfull \hbox (16.05421pt too wide) in paragraph at lines 362--363
+\T1/lmr/m/n/12 tant ; com-po-sants shadcn/ui (Ra-dix UI, ARIA) ; ani-ma-tions r
+es-pec-tant \T1/lmtt/m/n/12 prefers-reduced-motion \T1/lmr/m/n/12 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 373--373
+[]|\T1/lmr/bx/n/10.95 Source
+ []
+
+
+Overfull \hbox (0.58177pt too wide) in paragraph at lines 373--374
+[]|\T1/lmr/bx/n/10.95 Verdict| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 376--376
+[]|\T1/lmr/bx/n/10.95 Source
+ []
+
+
+Overfull \hbox (0.58177pt too wide) in paragraph at lines 376--377
+[]|\T1/lmr/bx/n/10.95 Verdict| 
+ []
+
+
+Underfull \hbox (badness 1173) in paragraph at lines 379--379
+[]|\T1/lmr/m/n/10.95 Inscription et ac-ti-va-tion par code
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 382--382
+[]|\T1/lmr/m/n/10.95 ST-20, ST-21, ST-23,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 387--387
+[]|\T1/lmr/m/n/10.95 Ÿ3.2.2,
+ []
+
+
+Underfull \hbox (badness 3942) in paragraph at lines 392--392
+[]|\T1/lmr/m/n/10.95 ST-NF, PM-02, ST-08
+ []
+
+[8{C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-mathit.en
+c}] [9]
+Chapitre 4.
+[10
+
+]
+<images/testiny-cas-de-test.jpg, id=616, 1924.18875pt x 985.6825pt>
+File: images/testiny-cas-de-test.jpg Graphic file (type jpg)
+<use images/testiny-cas-de-test.jpg>
+Package pdftex.def Info: images/testiny-cas-de-test.jpg  used on input line 449
+.
+(pdftex.def)             Requested size: 483.69687pt x 247.77364pt.
+ [11] [12 <./images/testiny-cas-de-test.jpg>]
+Chapitre 5.
+
+Underfull \hbox (badness 5787) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Fonctionnel, struc-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/lmr/bx/n/10.95 Postman
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Intégration, sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Fonctionnel, non
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\T1/lmr/m/n/10.95 fonc-tion-nel (sé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Code (tous ni-
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Structurel, main-te-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Non fonc-tion-nel
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+\T1/lmr/m/n/10.95 (per-for-mance,
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 jwt.io, SQL,
+ []
+
+
+Underfull \hbox (badness 7308) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Intégration, sys-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 Fonctionnel, sé-cu-
+ []
+
+
+Underfull \hbox (badness 3460) in paragraph at lines 520--520
+[]|\T1/lmr/m/n/10.95 ESLint, tsc,
+ []
+
+[13
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+[]|\T1/lmtt/m/n/10 hashToken() \T1/lmr/m/n/10 :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 540--540
+\T1/lmr/m/n/10 SHA-256 d'un
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 540--540
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 540--540
+\T1/lmr/m/n/10 mi-niste, dif-fé-rent du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 541--541
+[]|\T1/lmr/m/n/10 Génération du
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 542--542
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 542--542
+[]|\T1/lmr/m/n/10 mdp =
+ []
+
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 542.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 542.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <5> on input line 542.
+
+Underfull \hbox (badness 3158) in paragraph at lines 543--543
+\T1/lmr/m/n/10 pi-ra-tion du code
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 543--544
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 544--544
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 544--544
+[]|\T1/lmr/m/n/10 Rôle et ex-pi-ra-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 545--545
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+[]|\T1/lmr/m/n/10 question ^^S
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 545--545
+\T1/lmr/m/n/10 Com-ment
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
+[]|\T1/lmr/m/n/10 Complexité cy-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 546--546
+\T1/lmr/m/n/10 clo-ma-tique de
+ []
+
+
+Underfull \hbox (badness 3977) in paragraph at lines 546--546
+[]|\T1/lmr/m/n/10 SonarQube +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+[]|\T1/lmr/m/n/10 Couverture des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+\T1/lmr/m/n/10 branches des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+[]|\T1/lmr/m/n/10 2 tran-si-tions
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 547--547
+\T1/lmr/m/n/10 va-lides + 1
+ []
+
+
+Underfull \hbox (badness 5908) in paragraph at lines 547--547
+[]|\T1/lmr/m/n/10 100% des branches
+ []
+
+
+Underfull \hbox (badness 1072) in paragraph at lines 548--548
+[]|\T1/lmr/m/n/10 Exceptions mé-tier
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 549--549
+[]|\T1/lmr/m/n/10 Non-régression du
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 549--549
+[]|\T1/lmr/m/n/10 Résultat iden-tique
+ []
+
+
+Underfull \hbox (badness 7081) in paragraph at lines 550--550
+[]|\T1/lmr/m/n/10 Compatibilité as-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 550--550
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 550--550
+[]|\T1/lmr/m/n/10 Désérialisation OK,
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 550--551
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+[]|\T1/lmr/m/n/10 Couverture de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+\T1/lmr/m/n/10 tests après mo-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+\T1/lmr/m/n/10 di-fi-ca-tion d'un
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+[]|\T1/lmr/m/n/10 rapport
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 551--551
+\T1/lmr/m/n/10 Ja-CoCo
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 551--552
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+[14]
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
+[]|\T1/lmtt/m/n/10 POST
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
+\T1/lmtt/m/n/10 /auth/register
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
+[]|\T1/lmr/m/n/10 nom, email,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 564--564
+\T1/lmr/m/n/10 vé-ri-fié créé, email
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\T1/lmtt/m/n/10 POST
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+\T1/lmtt/m/n/10 /auth/login
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 565--565
+[]|\T1/lmr/m/n/10 utilisateur
+ []
+
+
+Underfull \hbox (badness 1635) in paragraph at lines 565--565
+\T1/lmr/m/n/10 vé-ri-fié + bon
+ []
+
+
+Underfull \hbox (badness 1590) in paragraph at lines 565--565
+[]|\T1/lmr/m/n/10 HTTP 200 + JWT
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+[]|\T1/lmr/m/n/10 Génération
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+\T1/lmr/m/n/10 des je-tons $\OMS/lmsy/m/n/10 $$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 566--566
+\T1/lmtt/m/n/10 vote_tokens
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 566--566
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\T1/lmr/m/n/10 POST
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\T1/lmtt/m/n/10 /elections /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+\T1/lmtt/m/n/10 {id} / vote$ $\OMS/lmsy/m/n/10 $$
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 567--567
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\T1/lmr/m/n/10 jeton va-lide,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 567--567
+[]|\T1/lmr/m/n/10 Pas de \T1/lmtt/m/n/10 user_id\T1/lmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 1132) in paragraph at lines 567--567
+\T1/lmr/m/n/10 au-cune join-ture pos-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 568--568
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 568--568
+[]|\T1/lmr/m/n/10 question hors
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 568--569
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\T1/lmr/m/n/10 Validation d'une
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\T1/lmr/m/n/10 can-di-da-ture $\OMS/lmsy/m/n/10 $$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\T1/lmr/m/n/10 candidature
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+[]|\T1/lmr/m/n/10 Statut \T1/lmtt/m/n/10 VALIDATED\T1/lmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 569--569
+\T1/lmr/m/n/10 rôle \T1/lmtt/m/n/10 CANDIDATE\T1/lmr/m/n/10 ,
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 570--570
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 570--570
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 571--571
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 571--571
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 1354) in paragraph at lines 571--571
+[]|\T1/lmr/m/n/10 Repli sur les règles,
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 571--572
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
+[]|\T1/lmr/m/n/10 Filtre JWT et
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 572--572
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
+[]|\T1/lmr/m/n/10 sans to-ken ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
+\T1/lmtt/m/n/10 STUDENT \T1/lmr/m/n/10 sur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 572--572
+\T1/lmr/m/n/10 end-point
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+[]|\T1/lmr/m/n/10 2[]  like ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 573--573
+\T1/lmtt/m/n/10 token_hash
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 573--574
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--574
+[]|\T1/lmtt/m/n/10 POST
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 574--574
+[]|\T1/lmr/m/n/10 refresh to-ken
+ []
+
+
+Underfull \hbox (badness 2443) in paragraph at lines 574--574
+[]|\T1/lmr/m/n/10 Nouvel ac-cess to-ken
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 574--575
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+[]|\T1/lmtt/m/n/10 GET /elections
+ []
+
+
+Underfull \hbox (badness 3525) in paragraph at lines 575--575
+\OMS/lmsy/m/n/10 $$ \T1/lmr/m/n/10 JPA $\OMS/lmsy/m/n/10 $$ \T1/lmr/m/n/10 Ma-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 575--575
+[]|\T1/lmr/m/n/10 élections en
+ []
+
+
+Underfull \hbox (badness 2277) in paragraph at lines 576--576
+[]|\T1/lmr/m/n/10 Upload photo de
+ []
+
+
+Underfull \hbox (badness 2158) in paragraph at lines 576--576
+[]|\T1/lmr/m/n/10 Fichier sto-cké, URL
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 576--577
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 5091) in paragraph at lines 577--577
+[]|\T1/lmtt/m/n/10 GET /results $\OMS/lmsy/m/n/10 $$
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 577--577
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 5316) in paragraph at lines 577--577
+[]|\T1/lmr/m/n/10 Totaux et pour-cen-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 578--578
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 578--578
+[]|\T1/lmr/m/n/10 notification
+ []
+
+
+Underfull \hbox (badness 5862) in paragraph at lines 578--578
+[]|\T1/lmr/m/n/10 Statut \T1/lmtt/m/n/10 read\T1/lmr/m/n/10 , badge
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 578--579
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 579--579
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 579--579
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 1292) in paragraph at lines 579--579
+[]|\T1/lmr/m/n/10 erreur si-mu-lée
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 579--580
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
+[]|\T1/lmr/m/n/10 Contrainte FK
+ []
+
+
+Underfull \hbox (badness 1728) in paragraph at lines 580--580
+\T1/lmr/m/n/10 can-di-dat $\OMS/lmsy/m/n/10 !$ \T1/lmr/m/n/10 élec-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 580--580
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
+[]|\T1/lmr/m/n/10 suppression
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 580--580
+\T1/lmr/m/n/10 élec-tion avec
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 580--581
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 581--581
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 581--582
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 582--582
+[]|\T1/lmr/m/n/10 Migration de
+ []
+
+
+Underfull \hbox (badness 1248) in paragraph at lines 582--582
+\T1/lmr/m/n/10 schéma (ajout de
+ []
+
+
+Underfull \hbox (badness 1147) in paragraph at lines 582--582
+[]|\T1/lmr/m/n/10 script + base
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 582--583
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 583--583
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 583--584
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 2119) in paragraph at lines 584--584
+\T1/lmr/m/n/10 ré-ponse de l'API
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 584--585
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 585--585
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 585--585
+[]|\T1/lmr/m/n/10 benchmark
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 585--586
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 3088) in paragraph at lines 586--586
+[]|\T1/lmr/m/n/10 Compatibilité des
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+\T1/lmr/m/n/10 end-points après
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+[]|\T1/lmr/m/n/10 collection
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+\T1/lmr/m/n/10 Post-man
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 586--586
+[]|\T1/lmr/m/n/10 Aucun brea-king
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 586--587
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 2452) in paragraph at lines 587--587
+[]|\T1/lmr/m/n/10 Non-régression de
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 587--587
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 587--587
+[]|\T1/lmr/m/n/10 Aucune co-lonne ni
+ []
+
+[15{C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-rm.enc}]
+[16]
+Underfull \hbox (badness 5970) in paragraph at lines 600--600
+[]|\T1/lmr/m/n/10 Scénario démo :
+ []
+
+
+Underfull \hbox (badness 1552) in paragraph at lines 600--600
+\T1/lmr/m/n/10 da-ture $\OMS/lmsy/m/n/10 !$ \T1/lmr/m/n/10 va-li-da-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 600--600
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 601--601
+[]|\T1/lmr/m/n/10 Interdiction du
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 601--601
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 1107) in paragraph at lines 601--601
+[]|\T1/lmr/m/n/10 2[]  vote re-fusé, mes-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 602--602
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
+[]|\T1/lmr/m/n/10 élection
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
+\T1/lmtt/m/n/10 VOTE_ACTIVE
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
+[]|\T1/lmr/m/n/10 Participation seule
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 602--602
+\T1/lmr/m/n/10 pen-dant le vote ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--603
+[]|\T1/lmr/m/n/10 Engagement
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 603--603
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 603--603
+[]|\T1/lmr/m/n/10 étudiant +
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 603--604
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 604--604
+[]|\T1/lmr/m/n/10 élection
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 605--605
+[]|\T1/lmr/m/n/10 Transitions au-to-
+ []
+
+
+Underfull \hbox (badness 3612) in paragraph at lines 605--605
+\T1/lmr/m/n/10 ma-tiques (pla-ni-fi-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 605--606
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 606--606
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 606--607
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 607--607
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 607--607
+[]|\T1/lmr/m/n/10 scénario JMe-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 608--608
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 608--608
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 8113) in paragraph at lines 608--608
+[]|\T1/lmr/m/n/10 Aucune er-reur blo-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 608--609
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 609--609
+[]|\T1/lmr/m/n/10 Sauvegarde et
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 609--609
+[]|\T1/lmr/m/n/10 sauvegarde +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
+[]|\T1/lmr/m/n/10 SonarQube
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
+\T1/lmr/m/n/10 (code) ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 610--610
+\T1/lmr/m/n/10 OWASP
+ []
+
+
+Underfull \hbox (badness 4378) in paragraph at lines 610--610
+[]|\T1/lmr/m/n/10 Aucune vul-né-ra-bi-lité
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--611
+[]|\T1/lmr/m/n/10 Cohérence
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 611--611
+\T1/lmr/m/n/10 rôles/menus par
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 611--612
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 612--612
+[]|\T1/lmr/m/n/10 REG-00-
+ []
+
+
+Underfull \hbox (badness 3128) in paragraph at lines 612--612
+[]|\T1/lmr/m/n/10 Connexion des 3
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 612--612
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 1466) in paragraph at lines 612--612
+[]|\T1/lmr/m/n/10 3 comptes de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--613
+[]|\T1/lmr/m/n/10 REG-00-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 613--613
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 613--613
+[]|\T1/lmr/m/n/10 élection
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 614--614
+[]|\T1/lmr/m/n/10 REG-00-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 614--614
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
+[]|\T1/lmr/m/n/10 REG-00-
+ []
+
+
+Underfull \hbox (badness 4940) in paragraph at lines 615--615
+[]|\T1/lmr/m/n/10 Anonymat de la
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 615--615
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 615--615
+[]|\T1/lmr/m/n/10 Aucune co-lonne ni
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 616--616
+[]|\T1/lmr/m/n/10 REG-00-
+ []
+
+
+Underfull \hbox (badness 1122) in paragraph at lines 617--617
+[]|\T1/lmr/m/n/10 Non-régression du
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 617--617
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 617--617
+[]|\T1/lmr/m/n/10 Tous les scé-na-rios
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 617--618
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 5022) in paragraph at lines 618--618
+[]|\T1/lmr/m/n/10 Déploiement sans
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 618--618
+[]|\T1/lmr/m/n/10 rolling/blue-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 618--618
+[]|\T1/lmr/m/n/10 Disponibilité main-te-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 618--619
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 619--619
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 5832) in paragraph at lines 619--619
+[]|\T1/lmr/m/n/10 sauvegarde +
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 619--620
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 620--620
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 620--621
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 621--621
+[]|\T1/lmr/m/n/10 Compatibilité
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 621--621
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 1231) in paragraph at lines 621--621
+[]|\T1/lmr/m/n/10 Chrome, Fi-re-
+ []
+
+
+Underfull \hbox (badness 6300) in paragraph at lines 621--622
+[]|[]\T1/lmr/m/n/10 Non exé-
+ []
+
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\T1/lmr/m/n/10 Étudiant :
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\T1/lmr/m/n/10 connexion $\OMS/lmsy/m/n/10 !$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+\T1/lmr/m/n/10 consul-ta-tion $\OMS/lmsy/m/n/10 !$
+ []
+
+
+Overfull \hbox (3.14069pt too wide) in paragraph at lines 634--634
+[]|\T1/lmr/m/n/10 Critique| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\T1/lmr/m/n/10 compte
+ []
+
+
+Overfull \hbox (8.05836pt too wide) in paragraph at lines 634--634
+\T1/lmtt/m/n/10 talel@test.com| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 634--634
+[]|\T1/lmr/m/n/10 Parcours com-pris,
+ []
+
+
+Underfull \hbox (badness 1675) in paragraph at lines 635--635
+[]|\T1/lmr/m/n/10 Candidat gère sa
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--635
+\T1/lmr/m/n/10 cam-pagne (pro-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 635--635
+[]|\T1/lmr/m/n/10 compte
+ []
+
+
+Overfull \hbox (13.30835pt too wide) in paragraph at lines 635--635
+\T1/lmtt/m/n/10 achref@test.com| 
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 635--636
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--636
+[]|\T1/lmr/m/n/10 Administrateur
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--636
+\T1/lmr/m/n/10 crée une élec-
+ []
+
+
+Underfull \hbox (badness 1337) in paragraph at lines 636--636
+\T1/lmr/m/n/10 tion et traite les
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 636--636
+[]|\T1/lmr/m/n/10 compte
+ []
+
+
+Overfull \hbox (8.05836pt too wide) in paragraph at lines 636--636
+\T1/lmtt/m/n/10 ahmed@test.com| 
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 636--637
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 637--637
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 637--637
+[]|\T1/lmr/m/n/10 10 ques-tions
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 637--638
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--638
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Underfull \hbox (badness 4108) in paragraph at lines 638--638
+[]|\T1/lmr/m/n/10 Perception de la
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 638--638
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 638--638
+[]|\T1/lmr/m/n/10 questionnaire
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 638--639
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 639--639
+[]|\T1/lmr/m/n/10 Non-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 639--639
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+[]|\T1/lmr/m/n/10 Rôles et droits
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 640--640
+\T1/lmr/m/n/10 conformes au
+ []
+
+
+Underfull \hbox (badness 1571) in paragraph at lines 640--640
+[]|\T1/lmr/m/n/10 Aucun ac-cès in-co-hé-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
+[]|\T1/lmr/m/n/10 UAT-
+ []
+
+
+Underfull \hbox (badness 2096) in paragraph at lines 641--641
+[]|\T1/lmr/m/n/10 Évolution de-man-
+ []
+
+
+Underfull \hbox (badness 3679) in paragraph at lines 641--641
+\T1/lmr/m/n/10 dée conforme au
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
+[]|\T1/lmr/m/n/10 environnement
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 641--641
+[]|\T1/lmr/m/n/10 Fonctionnalité
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 641--642
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--642
+[]|\T1/lmr/m/n/10 UAT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--642
+[]|\T1/lmr/m/n/10 Procédure de
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 642--642
+\T1/lmr/m/n/10 main-te-nance pla-
+ []
+
+
+Overfull \hbox (6.16891pt too wide) in paragraph at lines 642--642
+[]|\T1/lmr/m/n/10 Moyenne| 
+ []
+
+
+Underfull \hbox (badness 8038) in paragraph at lines 642--643
+[]|[]\T1/lmr/m/n/10 À exé-cu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]|\T1/lmr/m/n/10 UAT-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]|\T1/lmr/m/n/10 Rôles/droits in-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 643--643
+[]|\T1/lmr/m/n/10 Aucun chan-ge-ment
+ []
+
+[18] [19]
+Chapitre 6.
+
+Underfull \hbox (badness 1931) in paragraph at lines 676--676
+[]|\T1/lmr/m/n/10.95 JUnit 5, As-sertJ, Mo-
+ []
+
+[20
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 709--709
+[]|\T1/lmr/m/n/10.95 Revue in-for-melle
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\T1/lmr/bx/n/10.95 Point de contrôle
+ []
+
+
+Underfull \hbox (badness 1342) in paragraph at lines 731--731
+[]|\T1/lmr/m/n/10.95 Access to-ken va-lide 1h
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 731--731
+[]|\T1/lmr/m/n/10.95 L'admin ne vote pas
+ []
+
+
+Overfull \hbox (6.36418pt too wide) in paragraph at lines 731--731
+[]|\T1/lmr/m/n/10.95 Observation| 
+ []
+
+
+Overfull \hbox (2.19124pt too wide) in paragraph at lines 734--735
+[]\T1/lmr/m/n/12 Les constats RV-02, RV-04 et RV-05 ont en-suite été \T1/lmr/bx
+/n/12 confir-més dy-na-mi-que-ment \T1/lmr/m/n/12 (sec-tions []6.9.1[]
+ []
+
+[21]
+Underfull \hbox (badness 10000) in paragraph at lines 756--756
+[]|\T1/lmtt/m/n/10.95 ElectionService \T1/lmr/m/n/10.95 56, \T1/lmtt/m/n/10.95 
+ChatbotRulesService \T1/lmr/m/n/10.95 39,
+ []
+
+<images/sonarqube.png, id=684, 1154.51324pt x 484.81125pt>
+File: images/sonarqube.png Graphic file (type png)
+<use images/sonarqube.png>
+Package pdftex.def Info: images/sonarqube.png  used on input line 769.
+(pdftex.def)             Requested size: 459.51054pt x 192.95937pt.
+[22]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <12> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 789.
+ [23 <./images/sonarqube.png>]
+Overfull \hbox (3.95586pt too wide) in paragraph at lines 882--882
+[]|\T1/lmr/bx/n/10.95 Étape| 
+ []
+
+[24]
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 890.
+
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+LaTeX Font Info:    Font shape `T1/lmtt/bx/n' in size <10> not available
+(Font)              Font shape `T1/lmtt/b/n' tried instead on input line 892.
+
+[25]
+Underfull \hbox (badness 10000) in paragraph at lines 941--941
+[]|\T1/lmr/m/n/10.95 Élection in-trou-
+ []
+
+
+Overfull \hbox (6.73802pt too wide) in paragraph at lines 941--941
+[]|\T1/lmtt/m/n/10.95 existsByElectionId
+ []
+
+[26]
+<images/jacoco.png, id=730, 1154.51324pt x 283.65974pt>
+File: images/jacoco.png Graphic file (type png)
+<use images/jacoco.png>
+Package pdftex.def Info: images/jacoco.png  used on input line 1032.
+(pdftex.def)             Requested size: 483.69687pt x 118.84195pt.
+ [27]
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+[]|\T1/lmr/m/n/10.95 POST $\T1/lmtt/m/n/10.95 /api / auth /
+ []
+
+
+Underfull \hbox (badness 2521) in paragraph at lines 1074--1074
+[]|\T1/lmr/m/n/10.95 POST $\T1/lmtt/m/n/10.95 /api / elections /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1074--1074
+[]|[]\T1/lmr/bx/n/10.95 Échec[]
+ []
+
+[28 <./images/jacoco.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 1091--1091
+[]|\T1/lmr/m/n/10.95 GET $\T1/lmtt/m/n/10.95 /api / auth / me$
+ []
+
+
+Underfull \hbox (badness 4328) in paragraph at lines 1091--1091
+[]|\T1/lmr/m/n/10.95 Non fonct.
+ []
+
+Package hyperref Info: bookmark level for unknown lstlisting defaults to 0 on i
+nput line 1093.
+[29]
+<images/postman-login.png, id=770, 865.43324pt x 576.35326pt>
+File: images/postman-login.png Graphic file (type png)
+<use images/postman-login.png>
+Package pdftex.def Info: images/postman-login.png  used on input line 1123.
+(pdftex.def)             Requested size: 411.14528pt x 273.8146pt.
+<images/postman-auth-me.png, id=771, 871.45575pt x 578.76225pt>
+File: images/postman-auth-me.png Graphic file (type png)
+<use images/postman-auth-me.png>
+Package pdftex.def Info: images/postman-auth-me.png  used on input line 1129.
+(pdftex.def)             Requested size: 411.14528pt x 273.05154pt.
+ [30 <./images/postman-login.png>]
+<images/postman-admin-users.png, id=781, 867.24pt x 581.7735pt>
+File: images/postman-admin-users.png Graphic file (type png)
+<use images/postman-admin-users.png>
+Package pdftex.def Info: images/postman-admin-users.png  used on input line 113
+5.
+(pdftex.def)             Requested size: 411.14528pt x 275.81265pt.
+ [31 <./images/postman-auth-me.png> <./images/postman-admin-users.png>]
+<images/jwt-io.png, id=789, 1067.187pt x 379.4175pt>
+File: images/jwt-io.png Graphic file (type png)
+<use images/jwt-io.png>
+Package pdftex.def Info: images/jwt-io.png  used on input line 1154.
+(pdftex.def)             Requested size: 483.69687pt x 171.96944pt.
+ [32 <./images/jwt-io.png>]
+Overfull \hbox (10.52187pt too wide) in paragraph at lines 1190--1199
+ [][] 
+ []
+
+<images/jmeter.png, id=809, 1154.51324pt x 522.15076pt>
+File: images/jmeter.png Graphic file (type png)
+<use images/jmeter.png>
+Package pdftex.def Info: images/jmeter.png  used on input line 1209.
+(pdftex.def)             Requested size: 483.69687pt x 218.76004pt.
+[33]
+(C:\Users\talel\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstlang1.sty
+File: lstlang1.sty 2025/11/14 1.11b listings language file
+)
+Underfull \hbox (badness 10000) in paragraph at lines 1247--1247
+[]|\T1/lmr/m/n/10.95 CANDIDATE :
+ []
+
+
+Underfull \hbox (badness 3965) in paragraph at lines 1247--1247
+[]|\T1/lmr/m/n/10.95 Vote en-re-gis-tré :
+ []
+
+[34 <./images/jmeter.png>]
+Underfull \hbox (badness 7415) in paragraph at lines 1265--1265
+[]|\T1/lmr/m/n/10.95 les trois rôles ac-cèdent à \T1/lmtt/m/n/10.95 /auth/me \T
+1/lmr/m/n/10.95 et \T1/lmtt/m/n/10.95 /elections \T1/lmr/m/n/10.95 ;
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
+[]|\T1/lmr/bx/n/10.95 Note
+ []
+
+
+Underfull \hbox (badness 1087) in paragraph at lines 1282--1282
+[]|\T1/lmr/m/n/10.95 Rawen (étu-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1282--1282
+[]|\T1/lmr/m/n/10.95 Talel (ad-
+ []
+
+[35] [36]
+Overfull \hbox (6.17038pt too wide) in paragraph at lines 1378--1378
+[]|\T1/lmr/bx/n/10.95 Exigence| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1378
+[]|\T1/lmr/m/n/10.95 Revue, IT-04,
+ []
+
+
+Underfull \hbox (badness 5817) in paragraph at lines 1378--1378
+[]|\T1/lmr/m/n/10.95 Candidature ac-cep-tée sur une élec-tion
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 1378--1378
+[]|\T1/lmr/m/n/10.95 Mineure
+ []
+
+[37] [38] [39
+
+] (EasyVote_Rapport_Final.aux)
+ ***********
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-09-09>
+ ***********
+Package rerunfilecheck Info: File `EasyVote_Rapport_Final.out' has not changed.
+
+(rerunfilecheck)             Checksum: 07A5FCCDA681C472ADBE0EFDAB9AB21A;15604.
+ ) 
+Here is how much of TeX's memory you used:
+ 17013 strings out of 467392
+ 270060 string characters out of 5405639
+ 1126374 words of memory out of 5000000
+ 45826 multiletter control sequences out of 15000+600000
+ 734245 words of font info for 110 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 74i,13n,83p,612b,2088s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pf
+b><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pf
+b><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.p
+fb><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi10.p
+fb><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmmi12.p
+fb><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pf
+b><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb
+><C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb>
+<C:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr7.pfb><C
+:/Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri12.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmsy10.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtk10.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt12.pfb><C:/
+Users/talel/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtti10.pfb>
+Output written on EasyVote_Rapport_Final.pdf (48 pages, 1638930 bytes).
+PDF statistics:
+ 1013 PDF objects out of 1200 (max. 8388607)
+ 286 named destinations out of 1000 (max. 500000)
+ 627 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,46 @@
+\babel@toc {french}{}\relax 
+\contentsline {table}{\numberline {1}{\ignorespaces Chiffres clés de l'exécution}}{i}{table.0.1}%
+\contentsline {table}{\numberline {2}{\ignorespaces Objectifs du travail de test et organisation du rapport}}{1}{table.0.2}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {1.1}{\ignorespaces Parties prenantes du projet EasyVote}}{3}{table.1.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {2.1}{\ignorespaces Répartition des rôles entre les outils de l'équipe}}{6}{table.2.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {3.1}{Matrice de traçabilité exigences $\rightarrow $ tests exécutés}}{9}{table.3.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {4.1}{\ignorespaces Comparaison des outils de gestion des tests évalués (appréciation qualitative de l'équipe, sans mesure de performance)}}{10}{table.4.1}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {5.1}{\ignorespaces Risques métier principaux et réponse de test}}{13}{table.5.1}%
+\contentsline {table}{\numberline {5.2}{\ignorespaces Répartition des 68 cas du plan par niveau et par type}}{13}{table.5.2}%
+\contentsline {table}{\numberline {5.3}{\ignorespaces Outils de test par niveau, type et technique}}{14}{table.5.3}%
+\contentsline {table}{\numberline {5.4}{Plan de test --- Niveau Unitaire}}{15}{table.5.4}%
+\contentsline {table}{\numberline {5.5}{Plan de test --- Niveau Intégration}}{15}{table.5.5}%
+\contentsline {table}{\numberline {5.6}{Plan de test --- Niveau Système}}{17}{table.5.6}%
+\contentsline {table}{\numberline {5.7}{Plan de test --- Niveau Acceptation}}{18}{table.5.7}%
+\addvspace {10\p@ }
+\contentsline {table}{\numberline {6.1}{\ignorespaces Outils utilisés pendant l'exécution}}{20}{table.6.1}%
+\contentsline {table}{\numberline {6.2}{\ignorespaces Techniques statiques du cours et application dans EasyVote}}{21}{table.6.2}%
+\contentsline {table}{\numberline {6.3}{\ignorespaces Résultats de la revue technique du code}}{21}{table.6.3}%
+\contentsline {table}{\numberline {6.4}{\ignorespaces Résultats de l'analyse SonarQube}}{22}{table.6.4}%
+\contentsline {table}{\numberline {6.5}{\ignorespaces Résultats de l'analyse statique du frontend}}{23}{table.6.5}%
+\contentsline {table}{\numberline {6.6}{\ignorespaces Partitions d'équivalence du code OTP}}{24}{table.6.6}%
+\contentsline {table}{\numberline {6.7}{\ignorespaces Valeurs limites des champs de candidature}}{24}{table.6.7}%
+\contentsline {table}{\numberline {6.8}{\ignorespaces Table de décision du vote}}{24}{table.6.8}%
+\contentsline {table}{\numberline {6.9}{\ignorespaces Transitions d'état de l'élection}}{24}{table.6.9}%
+\contentsline {table}{\numberline {6.10}{\ignorespaces Cas d'utilisation UC-03 : Voter}}{25}{table.6.10}%
+\contentsline {table}{\numberline {6.11}{\ignorespaces Couverture des instructions de \texttt {hashToken()}}}{25}{table.6.11}%
+\contentsline {table}{\numberline {6.12}{\ignorespaces Couverture des branches de la génération des jetons}}{26}{table.6.12}%
+\contentsline {table}{\numberline {6.13}{\ignorespaces Couverture des décisions de la validation des dates}}{26}{table.6.13}%
+\contentsline {table}{\numberline {6.14}{\ignorespaces Chemins indépendants de \texttt {castVote()}}}{27}{table.6.14}%
+\contentsline {table}{\numberline {6.15}{\ignorespaces Couverture MC/DC de la condition de fin de vote}}{27}{table.6.15}%
+\contentsline {table}{\numberline {6.16}{\ignorespaces Couverture de code mesurée (JaCoCo)}}{27}{table.6.16}%
+\contentsline {table}{\numberline {6.17}{\ignorespaces Tests unitaires du chatbot EasyBot et de non-régression}}{28}{table.6.17}%
+\contentsline {table}{\numberline {6.18}{\ignorespaces Tests d'intégration exécutés}}{29}{table.6.18}%
+\contentsline {table}{\numberline {6.19}{\ignorespaces Tests Postman}}{29}{table.6.19}%
+\contentsline {table}{\numberline {6.20}{\ignorespaces Résultats JMeter selon le nombre d'utilisateurs simultanés}}{33}{table.6.20}%
+\contentsline {table}{\numberline {6.21}{\ignorespaces Tests exploratoires}}{35}{table.6.21}%
+\contentsline {table}{\numberline {6.22}{\ignorespaces Tests d'acceptation automatisés}}{35}{table.6.22}%
+\contentsline {table}{\numberline {6.23}{\ignorespaces Exécution des tests d'acceptation}}{35}{table.6.23}%
+\contentsline {table}{\numberline {6.24}{\ignorespaces Répartition des tests exécutés par technique et par mode}}{36}{table.6.24}%
+\contentsline {table}{\numberline {6.25}{\ignorespaces Bilan chiffré de l'exécution}}{37}{table.6.25}%
+\contentsline {table}{\numberline {6.26}{\ignorespaces Défauts détectés pendant l'exécution}}{37}{table.6.26}%

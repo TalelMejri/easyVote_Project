@@ -1,0 +1,82 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{Résumé}{i}{chapter*.1}%
+\contentsline {chapter}{Abréviations}{viii}{chapter*.5}%
+\contentsline {chapter}{Introduction}{1}{chapter*.6}%
+\contentsline {chapter}{\numberline {1}Choix et Présentation du Projet}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Identité du Projet}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Contexte et Objectifs}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Pourquoi EasyVote comme support de test}{2}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Parties Prenantes}{3}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Code Source du Projet}{3}{section.1.5}%
+\contentsline {chapter}{\numberline {2}Organisation du Travail d'Équipe avec Jira}{4}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Pourquoi un outil de gestion de projet}{4}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Mise en place du projet Jira}{4}{section.2.2}%
+\contentsline {paragraph}{Définition du « terminé ».}{4}{section*.7}%
+\contentsline {section}{\numberline {2.3}Sprint 1 : backlog et tableau}{5}{section.2.3}%
+\contentsline {section}{\numberline {2.4}Rôle de chaque outil}{6}{section.2.4}%
+\contentsline {chapter}{\numberline {3}Besoins Fonctionnels et Non Fonctionnels}{7}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Besoins Fonctionnels}{7}{section.3.1}%
+\contentsline {subsection}{\numberline {3.1.1}Étudiant}{7}{subsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.1.2}Candidat}{8}{subsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.1.3}Administrateur}{8}{subsection.3.1.3}%
+\contentsline {section}{\numberline {3.2}Besoins Non Fonctionnels}{8}{section.3.2}%
+\contentsline {paragraph}{Performance.}{8}{section*.8}%
+\contentsline {paragraph}{Sécurité.}{8}{section*.9}%
+\contentsline {paragraph}{Anonymat et intégrité du vote.}{8}{section*.10}%
+\contentsline {paragraph}{Maintenabilité.}{8}{section*.11}%
+\contentsline {paragraph}{Accessibilité et ergonomie.}{8}{section*.12}%
+\contentsline {paragraph}{Évolutivité.}{8}{section*.13}%
+\contentsline {section}{\numberline {3.3}Exigences identifiées et traçabilité}{9}{section.3.3}%
+\contentsline {chapter}{\numberline {4}Outil de Gestion des Tests : Testiny}{10}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Choix de l'outil}{10}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Justification du choix}{11}{section.4.2}%
+\contentsline {section}{\numberline {4.3}Configuration du projet EasyVote dans Testiny}{11}{section.4.3}%
+\contentsline {chapter}{\numberline {5}Plan de Test}{13}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Stratégie de test}{13}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Niveaux et types de tests}{13}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Outils de test retenus}{14}{section.5.3}%
+\contentsline {paragraph}{Critères d'entrée de l'exécution.}{14}{section*.14}%
+\contentsline {paragraph}{Critères de sortie.}{14}{section*.15}%
+\contentsline {section}{\numberline {5.4}Cas de test par niveau}{14}{section.5.4}%
+\contentsline {subsection}{\numberline {5.4.1}Niveau Unitaire}{14}{subsection.5.4.1}%
+\contentsline {subsection}{\numberline {5.4.2}Niveau Intégration}{15}{subsection.5.4.2}%
+\contentsline {subsection}{\numberline {5.4.3}Niveau Système (E2E)}{17}{subsection.5.4.3}%
+\contentsline {subsection}{\numberline {5.4.4}Niveau Acceptation (UAT)}{18}{subsection.5.4.4}%
+\contentsline {chapter}{\numberline {6}Exécution du Plan de Test}{20}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Organisation de l'exécution}{20}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Techniques statiques}{21}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Place des techniques statiques dans le projet}{21}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Revue technique}{21}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Analyse statique avec SonarQube (backend)}{22}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Analyse statique outillée du frontend}{23}{subsection.6.2.4}%
+\contentsline {section}{\numberline {6.3}Techniques dynamiques boîte noire}{23}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Partition d'équivalence --- code OTP}{23}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Analyse des valeurs limites --- candidature}{24}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}Table de décision --- vote d'un étudiant}{24}{subsection.6.3.3}%
+\contentsline {subsection}{\numberline {6.3.4}Test de transition d'état --- cycle de vie d'une élection}{24}{subsection.6.3.4}%
+\contentsline {subsection}{\numberline {6.3.5}Test des cas d'utilisation --- UC-03 « Voter »}{25}{subsection.6.3.5}%
+\contentsline {section}{\numberline {6.4}Techniques dynamiques boîte blanche}{25}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}Couverture des instructions --- \texttt {hashToken()}}{25}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}Couverture des branches --- \texttt {generateTokensForElection()}}{25}{subsection.6.4.2}%
+\contentsline {subsection}{\numberline {6.4.3}Couverture des décisions --- \texttt {validateDates()}}{26}{subsection.6.4.3}%
+\contentsline {subsection}{\numberline {6.4.4}Complexité cyclomatique --- \texttt {castVote()}}{26}{subsection.6.4.4}%
+\contentsline {subsection}{\numberline {6.4.5}Couverture MC/DC --- fin de la période de vote}{27}{subsection.6.4.5}%
+\contentsline {subsection}{\numberline {6.4.6}Couverture mesurée par JaCoCo}{27}{subsection.6.4.6}%
+\contentsline {section}{\numberline {6.5}Tests unitaires : chatbot et non-régression}{28}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Tests d'intégration et tests d'API}{28}{section.6.6}%
+\contentsline {subsection}{\numberline {6.6.1}Tests d'intégration automatisés (JUnit + MockMvc + H2)}{28}{subsection.6.6.1}%
+\contentsline {subsection}{\numberline {6.6.2}Tests d'API avec Postman}{29}{subsection.6.6.2}%
+\contentsline {subsection}{\numberline {6.6.3}Vérification manuelle du JWT avec jwt.io (JWT-01)}{32}{subsection.6.6.3}%
+\contentsline {section}{\numberline {6.7}Tests système de bout en bout}{32}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Tests de charge et de performance avec JMeter}{33}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Tests manuels}{34}{section.6.9}%
+\contentsline {subsection}{\numberline {6.9.1}Vérification SQL de l'anonymat (SQL-01)}{34}{subsection.6.9.1}%
+\contentsline {subsection}{\numberline {6.9.2}Tests exploratoires}{35}{subsection.6.9.2}%
+\contentsline {subsection}{\numberline {6.9.3}Tests d'acceptation automatisés}{35}{subsection.6.9.3}%
+\contentsline {subsection}{\numberline {6.9.4}Tests d'acceptation manuels (UAT)}{35}{subsection.6.9.4}%
+\contentsline {subsection}{\numberline {6.9.5}Test de maintenance : sauvegarde et restauration}{36}{subsection.6.9.5}%
+\contentsline {subsection}{\numberline {6.9.6}Tests liés aux changements : confirmation et régression}{36}{subsection.6.9.6}%
+\contentsline {section}{\numberline {6.10}Tests manuels et automatisés : synthèse}{36}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Bilan de l'exécution}{37}{section.6.11}%
+\contentsline {subsection}{\numberline {6.11.1}Défauts détectés}{37}{subsection.6.11.1}%
+\contentsline {chapter}{Conclusion}{39}{chapter*.16}%

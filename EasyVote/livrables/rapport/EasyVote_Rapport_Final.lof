@@ -1,0 +1,17 @@
+\babel@toc {french}{}\relax 
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Jira --- backlog du sprint 1 : tickets de l'epic « Tests boîte noire », avec statut, priorité et responsable}}{5}{figure.2.1}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Jira --- tableau Scrum du sprint 1 : colonnes To Do, In Progress, In Review et Done}}{5}{figure.2.2}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Testiny --- projet easyvote : 68 cas de test répartis en 4 dossiers (niveaux), dossier Système (E2E) ouvert}}{12}{figure.4.1}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {6.1}{\ignorespaces SonarQube --- projet EasyVote : Quality Gate réussi, 0 vulnérabilité, 3 bugs, 45 code smells, couverture 35,3\,\%, duplication 2,7\,\%}}{23}{figure.6.1}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces Rapport JaCoCo --- couverture par paquet : 39\,\% des instructions et 25\,\% des branches (1\,636 lignes, 38\,\% couvertes)}}{28}{figure.6.2}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces Postman --- PM-01 : \texttt {POST /api/auth/login} avec le compte administrateur, 200 OK ; le jeton d'accès, le jeton de rafraîchissement et \texttt {expiresIn} (86\,400\,000 ms, soit 24\,h) sont renvoyés}}{30}{figure.6.3}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces Postman --- PM-03 : \texttt {GET /api/auth/me} avec le jeton en \textit {Bearer Token}, 200 OK en 96\,ms ; le profil est celui du jeton et le mot de passe n'est pas renvoyé}}{31}{figure.6.4}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces Postman --- \texttt {GET /api/admin/users} avec le jeton ADMIN, 200 OK en 41\,ms : la contrepartie de PM-02, qui renvoie 401 sans jeton}}{31}{figure.6.5}%
+\contentsline {figure}{\numberline {6.6}{\ignorespaces jwt.io --- access token décodé : algorithme HS512, rôle ADMIN, \texttt {iat} = 1792444682 et \texttt {exp} = 1792531082 (écart de 86\,400 s, soit 24\,h)}}{32}{figure.6.6}%
+\contentsline {figure}{\numberline {6.7}{\ignorespaces Rapport JMeter --- scénario à 200 utilisateurs : 2\,200 requêtes, 0 erreur, temps moyen 13,5\,ms, 90\textsuperscript {e} centile 19,9\,ms}}{34}{figure.6.7}%

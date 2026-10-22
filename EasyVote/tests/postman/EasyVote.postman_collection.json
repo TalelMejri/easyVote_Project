@@ -1,0 +1,112 @@
+{
+  "info": {
+    "name": "EasyVote - Tests API",
+    "description": "2 tests d'API (niveau système, boîte noire). PM-01 = fonctionnel, PM-02 = non fonctionnel (sécurité + performance). Backend sur http://localhost:8082 requis.",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+  },
+  "variable": [
+    { "key": "baseUrl", "value": "http://localhost:8082/api" },
+    { "key": "token", "value": "" }
+  ],
+  "item": [
+    {
+      "name": "PM-01 Connexion administrateur (fonctionnel)",
+      "request": {
+        "method": "POST",
+        "header": [{ "key": "Content-Type", "value": "application/json" }],
+        "body": {
+          "mode": "raw",
+          "raw": "{\n  \"email\": \"ahmed@test.com\",\n  \"password\": \"password123\"\n}"
+        },
+        "url": "{{baseUrl}}/auth/login"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Statut HTTP 200\", function () {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "",
+              "const json = pm.response.json();",
+              "",
+              "pm.test(\"Un jeton JWT est renvoyé\", function () {",
+              "    pm.expect(json.data.accessToken).to.be.a(\"string\").and.not.empty;",
+              "});",
+              "",
+              "pm.test(\"Le rôle de l'utilisateur est ADMIN\", function () {",
+              "    pm.expect(json.data.user.role).to.eql(\"ADMIN\");",
+              "});",
+              "",
+              "// On garde le jeton pour d'autres requêtes (Authorization: Bearer {{token}})",
+              "pm.collectionVariables.set(\"token\", json.data.accessToken);"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "PM-03 Profil connecté /auth/me avec le jeton (fonctionnel)",
+      "request": {
+        "method": "GET",
+        "header": [{ "key": "Authorization", "value": "Bearer {{token}}" }],
+        "url": "{{baseUrl}}/auth/me"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Statut HTTP 200\", function () {",
+              "    pm.response.to.have.status(200);",
+              "});",
+              "",
+              "const user = pm.response.json().data;",
+              "",
+              "pm.test(\"Le profil renvoyé est celui du jeton (ahmed@test.com, ADMIN)\", function () {",
+              "    pm.expect(user.email).to.eql(\"ahmed@test.com\");",
+              "    pm.expect(user.role).to.eql(\"ADMIN\");",
+              "});",
+              "",
+              "pm.test(\"Le mot de passe n'est jamais renvoyé\", function () {",
+              "    pm.expect(user).to.not.have.property(\"password\");",
+              "});"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "name": "PM-02 Route admin protégée sans jeton (non fonctionnel : sécurité)",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": "{{baseUrl}}/admin/users"
+      },
+      "event": [
+        {
+          "listen": "test",
+          "script": {
+            "type": "text/javascript",
+            "exec": [
+              "pm.test(\"Accès refusé : statut HTTP 401\", function () {",
+              "    pm.response.to.have.status(401);",
+              "});",
+              "",
+              "pm.test(\"Message « Authentification requise »\", function () {",
+              "    pm.expect(pm.response.json().message).to.eql(\"Authentification requise\");",
+              "});",
+              "",
+              "pm.test(\"Réponse en moins de 200 ms (CDC 5.1)\", function () {",
+              "    pm.expect(pm.response.responseTime).to.be.below(200);",
+              "});"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

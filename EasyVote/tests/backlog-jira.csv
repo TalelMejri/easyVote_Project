@@ -1,0 +1,240 @@
+Issue id,Issue Type,Summary,Description,Priority,Labels,Parent
+1,Epic,Tests boîte noire,"Techniques boîte noire : partition d'équivalence, valeurs limites, table de décision, transition d'états.",Medium,tests,
+2,Epic,Tests boîte blanche,"Techniques boîte blanche : couverture d'instructions, branches, décisions/conditions, chemins, MC/DC.",Medium,tests,
+3,Epic,Tests unitaires,Tests unitaires : chatbot et non-régression du calcul des résultats.,Medium,tests,
+4,Epic,Tests d'intégration,Tests d'intégration : API + sécurité + base de données H2 (JUnit/MockMvc).,Medium,tests,
+5,Epic,Tests d'acceptation,Tests de recette : scénarios métier vus par l'utilisateur final.,Medium,tests,
+6,Task,PE-01 - OTP 123456 accepté,"Type : Fonctionnel
+Classe#méthode : PartitionEquivalenceOtpTest#codeValideSixChiffres
+Commande : .\tests\lancer-tests.ps1 PE-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+7,Task,PE-02 - OTP 12345 rejeté,"Type : Fonctionnel
+Classe#méthode : PartitionEquivalenceOtpTest#codeTropCourt
+Commande : .\tests\lancer-tests.ps1 PE-02
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+8,Task,PE-03 - OTP 12AB56 rejeté,"Type : Fonctionnel
+Classe#méthode : PartitionEquivalenceOtpTest#codeNonNumerique
+Commande : .\tests\lancer-tests.ps1 PE-03
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+9,Task,VL-01 - Slogan de 200 caractères accepté,"Type : Fonctionnel
+Classe#méthode : ValeursLimitesCandidatureTest#sloganExactementALaLimite
+Commande : .\tests\lancer-tests.ps1 VL-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests fonctionnel bn,1
+10,Task,VL-02 - Slogan de 201 caractères rejeté,"Type : Fonctionnel
+Classe#méthode : ValeursLimitesCandidatureTest#sloganJusteAuDessusDeLaLimite
+Commande : .\tests\lancer-tests.ps1 VL-02
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests fonctionnel bn,1
+11,Task,VL-03 - Photo de 5 Mo acceptée,"Type : Fonctionnel
+Classe#méthode : ValeursLimitesCandidatureTest#photoExactementCinqMo
+Commande : .\tests\lancer-tests.ps1 VL-03
+Résultat attendu : ECHEC attendu (DEF-01)
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests fonctionnel bn,1
+12,Task,R1 - Table de décision : vote valide,"Type : Fonctionnel
+Classe#méthode : TableDecisionVoteTest#r1VoteAutorise
+Commande : .\tests\lancer-tests.ps1 R1
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests fonctionnel bn,1
+13,Task,R2 - Table de décision : élection fermée,"Type : Fonctionnel
+Classe#méthode : TableDecisionVoteTest#r2ElectionNonActive
+Commande : .\tests\lancer-tests.ps1 R2
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+14,Task,R3 - Table de décision : déjà voté,"Type : Fonctionnel
+Classe#méthode : TableDecisionVoteTest#r3DejaVote
+Commande : .\tests\lancer-tests.ps1 R3
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests fonctionnel bn,1
+15,Task,ST-20 - Transition DRAFT → CAMPAIGN,"Type : Fonctionnel
+Classe#méthode : TransitionEtatElectionTest#draftVersCampagne
+Commande : .\tests\lancer-tests.ps1 ST-20
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+16,Task,ST-21 - Transition CAMPAIGN → VOTE,"Type : Fonctionnel
+Classe#méthode : TransitionEtatElectionTest#campagneVersVote
+Commande : .\tests\lancer-tests.ps1 ST-21
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+17,Task,ST-23 - Transition DRAFT → VOTE refusée,"Type : Fonctionnel
+Classe#méthode : TransitionEtatElectionTest#sautDEtatInterdit
+Commande : .\tests\lancer-tests.ps1 ST-23
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel bn,1
+18,Task,UT-01a - Couverture d'instructions : SHA-256 vecteur NIST,"Type : Structurel
+Classe#méthode : CouvertureInstructionsHashTest#vecteurNist
+Commande : .\tests\lancer-tests.ps1 UT-01a
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests structurel bb,2
+19,Task,UT-01b - Couverture d'instructions : hash de 64 caractères hexadécimaux,"Type : Structurel
+Classe#méthode : CouvertureInstructionsHashTest#formatEtDeterminisme
+Commande : .\tests\lancer-tests.ps1 UT-01b
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests structurel bb,2
+20,Task,UT-01c - Couverture d'instructions : jetons uniques,"Type : Structurel
+Classe#méthode : CouvertureInstructionsHashTest#jetonsBrutsUniques
+Commande : .\tests\lancer-tests.ps1 UT-01c
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests structurel bb,2
+21,Task,B1 - Couverture de branches : élection introuvable,"Type : Structurel
+Classe#méthode : CouvertureBranchesTokensTest#brancheElectionIntrouvable
+Commande : .\tests\lancer-tests.ps1 B1
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+22,Task,B2 - Couverture de branches : idempotence,"Type : Structurel
+Classe#méthode : CouvertureBranchesTokensTest#brancheIdempotence
+Commande : .\tests\lancer-tests.ps1 B2
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+23,Task,B3 - Couverture de branches : génération des jetons,"Type : Structurel
+Classe#méthode : CouvertureBranchesTokensTest#brancheGeneration
+Commande : .\tests\lancer-tests.ps1 B3
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+24,Task,DC-01 - Décisions/conditions : dates valides,"Type : Structurel
+Classe#méthode : CouvertureDecisionsConditionsTest#datesValides
+Commande : .\tests\lancer-tests.ps1 DC-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+25,Task,DC-02 - Décisions/conditions : campagne de durée nulle,"Type : Structurel
+Classe#méthode : CouvertureDecisionsConditionsTest#campagneDeDureeNulle
+Commande : .\tests\lancer-tests.ps1 DC-02
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+26,Task,DC-03 - Décisions/conditions : vote inversé,"Type : Structurel
+Classe#méthode : CouvertureDecisionsConditionsTest#voteInverse
+Commande : .\tests\lancer-tests.ps1 DC-03
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+27,Task,CC-1 - Chemins (complexité cyclomatique) : compte non vérifié,"Type : Structurel
+Classe#méthode : ComplexiteCyclomatiqueVoteTest#cheminCompteNonVerifie
+Commande : .\tests\lancer-tests.ps1 CC-1
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+28,Task,CC-2 - Chemins : candidat d'une autre élection,"Type : Structurel
+Classe#méthode : ComplexiteCyclomatiqueVoteTest#cheminCandidatAutreElection
+Commande : .\tests\lancer-tests.ps1 CC-2
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+29,Task,CC-3 - Chemins : jeton généré à la volée,"Type : Structurel
+Classe#méthode : ComplexiteCyclomatiqueVoteTest#cheminJetonGenereALaVolee
+Commande : .\tests\lancer-tests.ps1 CC-3
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+30,Task,T1 - MC/DC : A=V B=V (fin dépassée),"Type : Structurel
+Classe#méthode : McdcPeriodeVoteTest#t1FinDepassee
+Commande : .\tests\lancer-tests.ps1 T1
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+31,Task,T2 - MC/DC : A=V B=F (fin future),"Type : Structurel
+Classe#méthode : McdcPeriodeVoteTest#t2FinFuture
+Commande : .\tests\lancer-tests.ps1 T2
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+32,Task,T3 - MC/DC : A=F (sans date de fin),"Type : Structurel
+Classe#méthode : McdcPeriodeVoteTest#t3SansDateDeFin
+Commande : .\tests\lancer-tests.ps1 T3
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests structurel bb,2
+33,Task,UT-01 - Chatbot : « Bonjour » → message de bienvenue,"Type : Fonctionnel
+Classe#méthode : ChatbotRulesTest#salutation
+Commande : .\tests\lancer-tests.ps1 UT-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests fonctionnel ut,3
+34,Task,UT-06 - Chatbot : réponse de la couche règles < 50 ms,"Type : Non-fonctionnel
+Classe#méthode : ChatbotRulesTest#performanceMoinsDe50ms
+Commande : .\tests\lancer-tests.ps1 UT-06
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests nonfonctionnel ut,3
+35,Task,UT-M01 - Non-régression du calcul des résultats,"Type : Régression
+Classe#méthode : RegressionResultatsTest#calculDesResultatsInchange
+Commande : .\tests\lancer-tests.ps1 UT-M01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests regression ut,3
+36,Task,"IT-01 - POST /api/auth/register : compte non vérifié, BCrypt, OTP envoyé","Type : Fonctionnel
+Classe#méthode : ApiIntegrationTest#inscription
+Commande : .\tests\lancer-tests.ps1 IT-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests fonctionnel it,4
+37,Task,"IT-09 - Endpoint ADMIN : 401 sans jeton, 403 avec jeton STUDENT","Type : Fonctionnel
+Classe#méthode : ApiIntegrationTest#securiteRbac
+Commande : .\tests\lancer-tests.ps1 IT-09
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests fonctionnel it,4
+38,Task,IT-04 - Vote anonyme : aucun lien utilisateur ↔ vote en base,"Type : Fonctionnel
+Classe#méthode : ApiIntegrationTest#voteAnonymeEnBase
+Commande : .\tests\lancer-tests.ps1 IT-04
+Résultat attendu : ECHEC attendu (DEF-00)
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests fonctionnel it,4
+39,Task,IT-07 - GET /api/elections : moyenne ≤ 200 ms sur 20 appels,"Type : Non-fonctionnel
+Classe#méthode : ApiIntegrationTest#tempsDeReponseListeElections
+Commande : .\tests\lancer-tests.ps1 IT-07
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests nonfonctionnel it,4
+40,Task,UAT-01 - Étudiant : connexion → consultation → vote,"Type : Fonctionnel
+Classe#méthode : AcceptationTest#parcoursEtudiant
+Commande : .\tests\lancer-tests.ps1 UAT-01
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Highest,tests fonctionnel uat,5
+41,Task,UAT-06 - PDF officiel des résultats exploitable,"Type : Non-fonctionnel
+Classe#méthode : AcceptationTest#pdfOfficielExploitable
+Commande : .\tests\lancer-tests.ps1 UAT-06
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",Medium,tests nonfonctionnel uat,5
+42,Task,"UAT-07 - Test croisé des 3 rôles (STUDENT, CANDIDATE, ADMIN)","Type : Structurel
+Classe#méthode : AcceptationTest#rolesEtDroitsConformes
+Commande : .\tests\lancer-tests.ps1 UAT-07
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests structurel uat,5
+43,Task,UAT-M03 - Droits inchangés après mise à jour majeure,"Type : Régression
+Classe#méthode : AcceptationTest#droitsInchangesApresMiseAJour
+Commande : .\tests\lancer-tests.ps1 UAT-M03
+Résultat attendu : OK
+
+Definition of Done : test écrit, exécuté et résultat consigné.",High,tests regression uat,5
+44,Bug,DEF-00 - Anonymat du vote : jointure votes ↔ vote_tokens ↔ users identifie l'électeur,"Gravité : Critique
+Détecté par : IT-04",Highest,defaut tests,
+45,Bug,DEF-01 - Photo de candidature de 5 Mo refusée alors que la limite est de 5 Mo,"Gravité : Mineure
+Détecté par : VL-03",Low,defaut tests,
+46,Bug,DEF-04 - « Comment devenir candidat ? » : le chatbot donne la mauvaise réponse (règle « candidat » évaluée avant),"Gravité : Mineure
+Détecté par : UT-CB3 / EX-13",Low,defaut tests,
